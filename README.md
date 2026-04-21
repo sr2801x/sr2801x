@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sneha</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F48FB1&size=35&center=true&vCenter=true&lines=Hi+👋,+I'm+Sneha+🌸" />
+</p>
 
 <p align="center">
   💻 Computer Science Student • 🚀 Full Stack Developer • 🤖 Exploring AI/ML
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F48FB1&center=true&vCenter=true&lines=Code+Break+Fix+Repeat.;Learning+AI+%26+Full+Stack;Always+growing+🌱" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </p>
+
+<p align="center">
+  💖 Coding in my own little world  
+</p>
+
 
 ---
 
