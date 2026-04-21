@@ -1,114 +1,89 @@
-<h1 align="center">Hey 👋, I'm Sneha</h1>
+<h1 align="center">Hi 👋, I'm Sneha</h1>
 
 <p align="center">
-  💻 BTech CSE Student | 🚀 Future Full Stack Dev | 🤖 AI/ML Explorer
+  💻 Computer Science Student • 🚀 Full Stack Developer • 🤖 Exploring AI/ML
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F48FB1&center=true&vCenter=true&lines=Building+real-world+projects;Learning+AI+%26+Full+Stack;Always+growing+🌱" />
 </p>
 
 ---
 
-## 🎀 About Me
+## 🌷 About Me
 
-- 🎓 Computer Science student figuring life one bug at a time  
-- 🌱 Currently learning **Full Stack + AI/ML**  
-- 💡 Love building real-world + hackathon projects  
-- ⚡ Turning ideas into code (and sometimes chaos)  
-
----
-
-## 🖤 Aesthetic Zone (yes, we’re doing this)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
-
-<p align="center">
-  💖 Coding in my own little world  
-</p>
+- 🎓 BTech CSE student  
+- 💡 Interested in Full Stack Development & AI/ML  
+- 🚀 Building practical, real-world applications  
+- 🤝 Open to collaborations and hackathons  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-F48FB1?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F8BBD0?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCE4EC?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🚀 Development
-![React](https://img.shields.io/badge/React-black?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge)
+### 🚀 Development  
+![React](https://img.shields.io/badge/React-F48FB1?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-F8BBD0?style=for-the-badge&logo=node.js&logoColor=black)
+![Express](https://img.shields.io/badge/Express-FCE4EC?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-F48FB1?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-F48FB1?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-F8BBD0?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FCE4EC?style=for-the-badge&logo=postman&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sr2801x&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sr2801x&show_icons=true&theme=default&title_color=F48FB1&icon_color=F48FB1" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sr2801x&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=sr2801x&theme=default&ring=F48FB1&fire=F48FB1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr2801x&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr2801x&layout=compact&theme=default&title_color=F48FB1" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sr2801x&theme=react-dark"/>
-
----
-
-## 🚀 Projects I’m Proud Of
-
-- 🏏 **Sports Equipment Rental System**  
-  → Full-stack app using Node.js, Express & MongoDB  
-
-- 📦 **Inventory Management System (Java + MySQL)**  
-  → CLI-based system with database integration  
-
-- 🐧 **Linux Inventory System (Bash + Dialog)**  
-  → Terminal UI with full CRUD  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sr2801x&bg_color=ffffff&color=F48FB1&line=F48FB1&point=000000"/>
 
 ---
 
-## 🌐 Let's Connect
+## 🚀 Projects
+
+- 🏏 Sports Equipment Rental System (Node.js, Express, MongoDB)  
+- 📦 Inventory Management System (Java + MySQL)  
+- 🐧 Linux Inventory System (Bash + Dialog UI)  
+
+---
+
+## 🌐 Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/sneha-rathore-00463a2a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/sneha-rathore-00463a2a3/">
+    <img src="https://img.shields.io/badge/Portfolio-F8BBD0?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 💭 Random Energy
-
-- ☕ Code + Coffee = Survival  
-- 🧠 Debugging is my cardio  
-- 🎯 Goal: Build impactful tech that actually matters  
-
----
-
-## 💖 Ending Note
+## ✨
 
 <p align="center">
-  ✨ Thanks for visiting my profile ✨  
-</p>
-
-<p align="center">
-  <b>"Code like art. Debug like a detective."</b> 🔍
+  <i>Building with logic, learning with curiosity, growing with consistency 🌱</i>
 </p>
