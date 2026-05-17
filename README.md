@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
-<h3 align="center">BTech Student | Aspiring Software Developer | Building Ideas into Projects 🚀</h3>
+<h3 align="center">BTech Student | Aspiring Software Developer | Building Ideas into Projects </h3>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👩‍💻 About Me
 
-- 🎓 BTech Student passionate about technology and development
-- 🌱 Currently learning **Django, Backend Development, and Data Structures**
-- 💡 Interested in **Web Development, AI Projects, FinTech, and Hackathons**
-- 🚀 Building projects and exploring real-world problem solving
-- 📚 Always learning something new
+-  BTech Student passionate about technology and development
+-  Currently learning **Django, Backend Development, and Data Structures**
+-  Interested in **Web Development, AI Projects, FinTech, and Hackathons**
+-  Building projects and exploring real-world problem solving
+-  Always learning something new
 
 ---
 
@@ -38,44 +38,44 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏥 Sanjeevani — AI-Powered Conversational Platform
+###  Sanjeevani — AI-Powered Conversational Platform
 Built an AI chatbot system using LLM APIs for intelligent response generation and conversational context management. Implemented structured conversation storage, prompt optimization, and workflow automation.
 
 **Tech Stack:** `Python` `MongoDB` `LLM APIs` `NLP` `Prompt Engineering`
 
 ---
 
-### 📋 TaskForge — Role-Based Task Management System
+###  TaskForge — Role-Based Task Management System
 Developed a MERN-based task management platform with role-based access, dashboards, task tracking, and Kanban board functionality for efficient workflow management.
 
 **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
 
 ---
 
-### 🥛 DailyDash — Subscription-Based Food Delivery App
+###  DailyDash — Subscription-Based Food Delivery App
 Created a MERN-based delivery platform supporting subscription-based recurring orders with product browsing, cart management, payment integration, and JWT authentication.
 
 **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `JWT` `REST APIs`
 
 ---
 
-### 🍳 ScrapCook — Ingredient-Based Recipe Finder
+###  ScrapCook — Ingredient-Based Recipe Finder
 Developed a smart recipe finder that generates meal suggestions based on available ingredients using external APIs and interactive filtering.
 
 **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
 
 ---
 
-### 📊 AI Resume Analytics Dashboard
+###  AI Resume Analytics Dashboard
 Built an AI-driven dashboard that converts structured resume data into automated insights using LLM APIs and SQL-based analysis pipelines.
 
 **Tech Stack:** `Python` `SQL` `LLM APIs` `Data Visualization`  
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
@@ -85,7 +85,7 @@ Built an AI-driven dashboard that converts structured resume data into automated
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
 
