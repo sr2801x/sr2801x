@@ -1,97 +1,81 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F48FB1&size=35&center=true&vCenter=true&lines=Hi+👋,+I'm+Sneha+🌸" />
-</p>
+<h1 align="center">Hi 👋, I'm Sneha</h1>
+<h3 align="center">BTech Student | Aspiring Software Developer | Building Ideas into Projects 🚀</h3>
 
-<p align="center">
-  💻 Computer Science Student • 🚀 Full Stack Developer • 🤖 Exploring AI/ML
-</p>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+### 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
-
-<p align="center">
-  💖 Coding in my own little world  
-</p>
-
+- 🎓 BTech Student passionate about technology and development
+- 🌱 Currently learning **Django, Backend Development, and Data Structures**
+- 💡 Interested in **Web Development, AI Projects, FinTech, and Hackathons**
+- 🚀 Building projects and exploring real-world problem solving
+- 📚 Always learning something new
 
 ---
 
-## 🌷 About Me
+### 🛠️ Tech Stack
 
-- 🎓 BTech CSE student  
-- 💡 Interested in Full Stack Development & AI/ML  
-- 🚀 Building practical, real-world applications  
-- 🤝 Open to collaborations and hackathons  
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+#### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Handlebars](https://img.shields.io/badge/Handlebars-f0772b?style=for-the-badge&logo=handlebarsdotjs)
 
-## 🛠️ Tech Stack
+#### Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-F48FB1?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F8BBD0?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FCE4EC?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🚀 Development  
-![React](https://img.shields.io/badge/React-F48FB1?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-F8BBD0?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express-FCE4EC?style=for-the-badge&logo=express&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-F48FB1?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F48FB1?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-F8BBD0?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FCE4EC?style=for-the-badge&logo=postman&logoColor=black)
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
+
+🔹 Sports Equipment Rental System  
+🔹 Inventory Management System  
+🔹 AI-powered Career Guidance System  
+🔹 BlockAid Project  
+🔹 Alumni Association Platform  
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sr2801x&show_icons=true&theme=default&title_color=F48FB1&icon_color=F48FB1" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sr2801x&theme=default&ring=F48FB1&fire=F48FB1" />
-</p>
+<a href="mailto:rathoresneha2801@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr2801x&layout=compact&theme=default&title_color=F48FB1" />
-</p>
+<a href="https://www.linkedin.com/in/sneha-rathore-00463a2a3/?skipRedirect=true">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://instagram.com/_jeeyaaaaaa_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sr2801x&bg_color=ffffff&color=F48FB1&line=F48FB1&point=000000"/>
-
----
-
-## 🚀 Projects
-
-- 🏏 Sports Equipment Rental System (Node.js, Express, MongoDB)  
-- 📦 Inventory Management System (Java + MySQL)  
-- 🐧 Linux Inventory System (Bash + Dialog UI)  
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sneha-rathore-00463a2a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sneha-rathore-00463a2a3/">
-    <img src="https://img.shields.io/badge/Portfolio-F8BBD0?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-  </a>
 </p>
 
 ---
 
-## ✨
-
-<p align="center">
-  <i>Building with logic, learning with curiosity, growing with consistency 🌱</i>
-</p>
+⭐ "Code. Learn. Build. Repeat."
