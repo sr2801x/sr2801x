@@ -62,31 +62,17 @@ Created a MERN-based delivery platform supporting subscription-based recurring o
 ---
 
 ###  ScrapCook — Ingredient-Based Recipe Finder
-Developed a smart recipe finder that generates meal suggestions based on available ingredients using external APIs and interactive filtering.mkdir -p ~/ca && cd ~/ca
-openssl genrsa -aes256 -out ca.key 4096
-openssl req -x509 -new -key ca.key -sha256 -days 3650 -out ca.crt \
-  -subj "/C=IN/ST=Karnataka/L=Bengaluru/O=Internship CA/CN=Internship Root CA"
+Developed a smart recipe finder that generates meal suggestions based on available ingredients using external APIs and interactive filtering.
 
-openssl genrsa -out mysite.test.key 2048
-openssl req -new -key mysite.test.key -out mysite.test.csr \
-  -subj "/C=IN/ST=Karnataka/L=Bengaluru/O=Internship/CN=mysite.test"
-
-cat > mysite.test.ext <<'EOF'
-authorityKeyIdentifier=keyid,issuer
-basicConstraints=CA:FALSE
-keyUsage=digitalSignature,keyEncipherment
-extendedKeyUsage=serverAuth
-subjectAltName=@alt_names
-
-[alt_names]
-DNS.1=mysite.test
-DNS.2=www.mysite.test
-IP.1=10.0.2.15
-EOF
-
-openssl x509 -req -in mysite.test.csr -CA ca.crt -CAkey ca.key -CAcreateserial \
-  -out mysite.test.crt -days 365 -sha256 -extfile mysite.test.ext
-openssl verify -CAfile ca.crt mysite.test.crt
+Set up a Linux web server using Nginx or Apache and host a custom HTML website.
+Install and configure BIND9 DNS server and create the required DNS records to resolve your website's domain.
+Implement SSL/TLS using OpenSSL and cryptography:
+Generate a private CA and root certificate.
+Generate server private key and CSR.
+Sign the server certificate using your CA.
+Configure HTTPS on port 443 and redirect HTTP traffic to HTTPS.
+Configure client-side certificate trust so the browser recognizes your certificate.
+Expected Output: The website should open using its domain name over HTTPS, with a trusted certificate and a green padlock or equivalent secure-connection indicator in the browser, without security warnings.
 
 **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
 
