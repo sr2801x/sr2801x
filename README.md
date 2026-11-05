@@ -64,15 +64,7 @@ Created a MERN-based delivery platform supporting subscription-based recurring o
 ###  ScrapCook — Ingredient-Based Recipe Finder
 Developed a smart recipe finder that generates meal suggestions based on available ingredients using external APIs and interactive filtering.
 
-Set up a Linux web server using Nginx or Apache and host a custom HTML website.
-Install and configure BIND9 DNS server and create the required DNS records to resolve your website's domain.
-Implement SSL/TLS using OpenSSL and cryptography:
-Generate a private CA and root certificate.
-Generate server private key and CSR.
-Sign the server certificate using your CA.
-Configure HTTPS on port 443 and redirect HTTP traffic to HTTPS.
-Configure client-side certificate trust so the browser recognizes your certificate.
-Expected Output: The website should open using its domain name over HTTPS, with a trusted certificate and a green padlock or equivalent secure-connection indicator in the browser, without security warnings.
+
 
 **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
 
